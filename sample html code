@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head></head>
+
+<body>
+    <div class="todo-card">
+        <div class="todo-card-header">
+            <h1 class="todo-card-title"></h1>
+            <p class="todo-card-caption">
+                Each day I will accomplish one thing on my todo list
+            </p>
+        </div>
+        <p class="todo-title">Read a book</p>
+        <p class="todo-description">
+            i don't think that the human race will survive the next thousand years,unledd we spread into space. there are too many accidents that can befall life on a single planet.But i'm an optimist...
+        </p>
+        <div class="todo-card-footer">
+            <button class="button">Start</button>
+            <p class="text-underline">Don't skip introduction</p>
+        </div>
+    </div>
+</body>
+
+</html>
